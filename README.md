@@ -26,23 +26,23 @@ Make sure you have Node.js and npm installed on your machine.
 
 2. Navigate to the project directory:
 
-```bash
-cd docs_mini
-```
+    ```bash
+    cd docs_mini
+    ```
 
 3. Install dependencies:
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 ### Running the App
 
 Start the development server:
 
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 
 Open http://localhost:5173 in your browser to view Mini Docs.
 
